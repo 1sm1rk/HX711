@@ -1,2 +1,2 @@
 # HX711
-Procedural implementation of HX711 library with HAL for STM32
+Test implementation of HX711 library with HAL for STM32
